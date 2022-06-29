@@ -12,7 +12,7 @@ Talk to me about
 
 📫 How to reach me             
 prajjwalpatel1012@gmail.com:email:             
-https://www.linkedin.com/in/prajjwalpatel-1012/ :book:
+https://www.linkedin.com/in/prajjwalp/ :book:
 
 <!---
 PrajjwalP/PrajjwalP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
