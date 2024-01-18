@@ -1,6 +1,6 @@
 👋 Hello there.                  
 I'm Prajjwal Patel:boy:        
-I live in Bengaluru, currently studying Big Data Analytics at St. Joseph's College:school:          
+I live in Bengaluru, exploring aspects of Data Analytics.         
 I have developed myself on the internet for over the years now.👀                 
 I’m looking to collaborate💞️ on data science prospects.                                                                    
                                                                                                             
